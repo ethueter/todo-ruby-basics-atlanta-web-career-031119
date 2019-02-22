@@ -21,6 +21,7 @@ end
 
 def last_evaluated_value
   first_test = "beginner"
+  second_test = 5 + 4
 end
 
 def pizza_party

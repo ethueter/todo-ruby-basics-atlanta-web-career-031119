@@ -15,11 +15,12 @@ def greeting(saying, name)
 end
 
 def return_a_value
-
+  phrase = "Nice"
+  phrase
 end
 
 def last_evaluated_value
-
+  first_test = "beginner"
 end
 
 def pizza_party
